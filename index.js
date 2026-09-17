@@ -111,7 +111,6 @@ function sendMessageTelegram(client_telegram) {
 		client_telegram.sendMessage(comprador.id_telegram, mensagens.mensagem4); 
 	}, 12000);
 }
-
 /*
 	**************
 	*** Routes ***
